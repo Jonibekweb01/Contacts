@@ -1,0 +1,30 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  width: 500px;
+  /* width: 100%; */
+  padding: 20px;
+  border: 2px solid navy;
+  border-radius: 5px;
+}
+
+.gmail {
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.tel {
+  border: 1px solid green;
+  padding: 10px;
+  color: green;
+  border-radius: 4px;
+  text-decoration: none;
+  /* margin-bottom: 20px; */
+}
